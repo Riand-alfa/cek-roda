@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68443541434",
+    "project_id": "coba-firebase-rian23",
+    "storage_bucket": "coba-firebase-rian23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68443541434:android:fae1625c174a4c79abd783",
+        "android_client_info": {
+          "package_name": "com.cekroda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdN3rMM-8K-QmicbKKAKOChWlIH0kZeI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
